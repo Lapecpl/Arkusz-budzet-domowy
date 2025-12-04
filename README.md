@@ -1,5 +1,7 @@
 # 💰 Arkusz Budżetu Domowego
 
+> **⚠️ WersjaRozwojowa** - Ten projekt jest w fazie wczesnego rozwoju. Funkcje mogą się zmieniać bez uprzedzenia.
+
 > **📄 Otwórz Arkusz w Google Sheets:**
 > [🔗 Kliknij tutaj, aby otworzyć arkusz](https://docs.google.com/spreadsheets/d/1DAnkA77pwHcci9CqaQJn-pt-FFbzsgmIRrAgGt-BxLo/edit?usp=sharing)
 
