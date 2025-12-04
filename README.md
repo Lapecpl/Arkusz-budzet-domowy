@@ -1,5 +1,8 @@
 # 💰 Arkusz Budżetu Domowego
 
+> **📄 Otwórz Arkusz w Google Sheets:**
+> [🔗 Kliknij tutaj, aby otworzyć arkusz](https://docs.google.com/spreadsheets/d/1DAnkA77pwHcci9CqaQJn-pt-FFbzsgmIRrAgGt-BxLo/edit?usp=sharing)
+
 
 
 ## 📄 O Projekcie
